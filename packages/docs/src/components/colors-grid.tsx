@@ -1,4 +1,4 @@
-import { colors } from '@rocketseat-ignite-ui/tokens'
+import { colors } from '@miguel-rocketseat-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

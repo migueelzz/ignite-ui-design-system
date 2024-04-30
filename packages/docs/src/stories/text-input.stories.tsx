@@ -4,7 +4,7 @@ import {
   Text,
   TextInput,
   TextInputProps,
-} from '@rocketseat-ignite-ui/react'
+} from '@miguel-rocketseat-ignite-ui/react'
 
 export default {
   title: 'Form/Text Input',

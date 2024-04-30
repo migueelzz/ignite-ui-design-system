@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "@miguel-rocketseat-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,9 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rocketseat-ignite-ui/eslint-config": "*",
-    "@rocketseat-ignite-ui/react": "*",
-    "@rocketseat-ignite-ui/tokens": "*",
+    "@miguel-rocketseat-ignite-ui/eslint-config": "*",
+    "@miguel-rocketseat-ignite-ui/react": "*",
+    "@miguel-rocketseat-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^8.0.9",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",

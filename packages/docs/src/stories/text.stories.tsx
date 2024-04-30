@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@rocketseat-ignite-ui/react'
+import { Text, TextProps } from '@miguel-rocketseat-ignite-ui/react'
 
 export default {
   title: 'Typography/Text',

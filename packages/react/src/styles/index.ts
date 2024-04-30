@@ -6,7 +6,7 @@ import {
   lineHeights,
   space,
   radii,
-} from '@rocketseat-ignite-ui/tokens'
+} from '@miguel-rocketseat-ignite-ui/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
